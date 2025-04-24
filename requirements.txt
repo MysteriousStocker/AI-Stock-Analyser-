@@ -1,0 +1,10 @@
+
+yfinance
+pandas
+matplotlib
+requests
+beautifulsoup4
+ta
+plotly
+streamlit
+reportlab
